@@ -62,6 +62,8 @@ This project is a **React + TypeScript** interactive map display application tha
 
    Navigate to this path before executing the below commands : Path : /backend/   
 
+In main.py, you need to update the API key for deepseek to make it work.
+
 3. Run the Backend via the command:
 ``` bash
 uvicorn main:app --host 0.0.0.0 --port 8080
@@ -84,4 +86,4 @@ Further enhancements and customization:
 - Extend the API to furthur productionize it.
 - Make it multilingual for ease of reading.
 
-Let me know if you want help with badges, deployment, or adding interactive GitHub buttons (e.g., ⭐ Star, ⬇️ Download).
+
