@@ -1,6 +1,5 @@
 # 🌍 Geo Display Application
 
-![Geo Map Display](https://via.placeholder.com/800x300?text=Geo+Display+App+Preview)
 
 This project is a **React + TypeScript** interactive map display application that lets users visualize a **main location** and **nearby points** with dynamic styling, clustering, and search features. Great for geospatial data visualization, travel planning, logistics, or just exploring!
 
@@ -79,9 +78,10 @@ uvicorn main:app --host 0.0.0.0 --port 8080
 
 ### ✅ Optional Enhancements
 
-You can further customize:
-- Replace the placeholder image URLs with real screenshots.
-- Add GitHub action badges (e.g., CI status, license).
-- Deploy your frontend to [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/) and link it here.
+Further enhancements and customization:
+- To embed images and corousal for the city's attraction.
+- To align the must visit places and associate them with url's so that chidren can explre more about the city.
+- Extend the API to furthur productionize it.
+- Make it multilingual for ease of reading.
 
 Let me know if you want help with badges, deployment, or adding interactive GitHub buttons (e.g., ⭐ Star, ⬇️ Download).
