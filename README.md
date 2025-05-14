@@ -57,3 +57,31 @@ This project is a **React + TypeScript** interactive map display application tha
    ```bash
    git clone https://github.com/Code4Bharat-2025/team9.git
    cd team9/backend
+2. Install dependencies for backend:
+   ```bash
+   pip install -r requirements.txt
+
+   Navigate to this path before executing the below commands : Path : /backend/   
+
+3. Run the Backend via the command:
+``` bash
+uvicorn main:app --host 0.0.0.0 --port 8080
+```
+
+4. Install dependencies for front-end:
+5. Navigate to this path before executing the below commands : Path : /frontend/src
+   ```bash
+    npm install
+    npm run dev
+   ```
+
+
+
+### ✅ Optional Enhancements
+
+You can further customize:
+- Replace the placeholder image URLs with real screenshots.
+- Add GitHub action badges (e.g., CI status, license).
+- Deploy your frontend to [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/) and link it here.
+
+Let me know if you want help with badges, deployment, or adding interactive GitHub buttons (e.g., ⭐ Star, ⬇️ Download).
